@@ -19,7 +19,7 @@ This Python script provides a command-line tool for managing network interfaces 
 
 1. **Clone or Download the Script:**
    ```bash
-   git clone https://github.com/your-repo/network-interface-tool.git
+   git clone https://github.com/VATASec/Authomotive_Ethernet.git
    cd network-interface-tool
 2. Run the Script:
    ```bash
