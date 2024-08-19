@@ -28,11 +28,11 @@ This Python script provides a command-line tool for managing network interfaces 
 3. Choose an Action:
    When prompted, select an action by entering the corresponding number:
 
-    1: Show interfaces
-    2: Add VLAN interface and set IPv6
-    3: Change VLAN IPv6 address
-    4: Delete VLAN subinterface
-    5: Exit
+    - 1: Show interfaces
+    - 2: Add VLAN interface and set IPv6
+    - 3: Change VLAN IPv6 address
+    - 4: Delete VLAN subinterface
+    - 5: Exit
 
 Follow Prompts:
 
