@@ -21,3 +21,19 @@ This Python script provides a command-line tool for managing network interfaces 
    ```bash
    git clone https://github.com/your-repo/network-interface-tool.git
    cd network-interface-tool
+2. Run the Script:
+   ```bash
+   python3 network_interface_tool.py
+
+3. Choose an Action:
+   When prompted, select an action by entering the corresponding number:
+
+    1: Show interfaces
+    2: Add VLAN interface and set IPv6
+    3: Change VLAN IPv6 address
+    4: Delete VLAN subinterface
+    5: Exit
+
+Follow Prompts:
+
+    The script will guide you through the process of managing interfaces. You will be asked to provide necessary inputs, such as the base interface name, VLAN ID, or IPv6 addresses.
