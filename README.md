@@ -34,6 +34,4 @@ This Python script provides a command-line tool for managing network interfaces 
     - 4: Delete VLAN subinterface
     - 5: Exit
 
-Follow Prompts:
 
-    The script will guide you through the process of managing interfaces. You will be asked to provide necessary inputs, such as the base interface name, VLAN ID, or IPv6 addresses.
